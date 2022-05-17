@@ -1,0 +1,16 @@
+.navbar{
+    background-color: rgb(158, 199, 199);
+    height: 50px;
+    padding: 30px 20px 30px 20px;
+    
+}
+.div1{
+    height: 35px;
+    background-color: #222;
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+    align-items: center;
+    font-size: 15px;
+    padding: 10px 0px 10px 0px;
+}
